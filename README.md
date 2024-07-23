@@ -1,6 +1,6 @@
 # simpleBlog-graphql
 
-This is a simple blog application built with GraphQL
+This is a simple blog application built with GraphQL.
 
 ## Installation
 
